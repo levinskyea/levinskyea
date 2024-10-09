@@ -1,5 +1,5 @@
 # Hello, I'm Skye 👋
-I'm an IT Support Engineer based in Cebu, Philippines. I love working on [Your Interests].
+I'm an IT Support Engineer based in Cebu, Philippines. I love web designing and developing 👩🏻‍💻, also I have passion for Photography 📸 and Videography 📹.
 
 ## Skills
 - **Languages**: JavaScript, Python, etc.
@@ -8,4 +8,5 @@ I'm an IT Support Engineer based in Cebu, Philippines. I love working on [Your I
 ## Contact
 - LinkedIn | http://linkedin.com/in/levinskyealigway
 
-!GitHub Stats
+## Portfolio - under construction
+- https://levinskyea.vercel.app/
